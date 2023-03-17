@@ -1,0 +1,2 @@
+#krutiky
+Знакомство с GitHub
